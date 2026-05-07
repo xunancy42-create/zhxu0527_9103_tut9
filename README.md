@@ -21,7 +21,7 @@ This technique is beneficial because it creates a highly responsive feedback loo
 
 ---
 
-### 💻 Selected Tool: p5.js (Mapping Function)
+### Selected Tool: p5.js (Mapping Function)
 
 ![Code Screenshot 1](readmeImages/coding_1.jpg)
 ![Code Screenshot 2](readmeImages/coding_2.jpg)
