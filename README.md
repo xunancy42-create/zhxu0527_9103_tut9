@@ -1,9 +1,9 @@
 # zhxu0527_9103_tut9
 
-## Part 1: Imaging Technique Inspiration
+## **1. Imaging Technique Inspiration**
 
 
-### Inspired imaging technique: 
+### *Inspired imaging technique:*
 
 ![Image 1](readmeImages/image_1.jpg)
 ![Image 2](readmeImages/image_2.jpg)
@@ -14,18 +14,17 @@ This technique is beneficial because it creates a highly responsive feedback loo
 
 
 
-## Part 2: Coding Technique Exploration
+## **2. Coding Technique Exploration**
 
 
-### Selected Tool: p5.js (Mapping Function)
+### *Selected Tool: p5.js (Mapping Function)*
 
 ![Code Screenshot 1](readmeImages/coding_1.jpg)
 ![Code Screenshot 2](readmeImages/coding_2.jpg)
 
 
-This coding technique is essential for my "User Input" mechanic. By using `let dynamicScale = map(mouseX, 0, width, 0.5, 3.0);`, I can translate the mouse's horizontal position into a multiplier for the radii of my geometric shapes. 
+To achieve the dynamic scaling effect, I will utilize the map() function in p5.js. This technique allows me to translate the raw coordinates of user input (mouseX) into a specific range of scale values (e.g., 0.5 to 3.0). By linking the mouse's horizontal position to the radii of the geometric shapes, the mandala-like patterns will expand or contract smoothly as the user interacts with the canvas. It makes the abstract "breathing" effect from Part 1 technically possible.
 
-This allows for a **fluid transition** where the entire mandala grows or shrinks as the user moves their cursor. Using mapping ensures the interaction feels natural and constrained within a visual range that maintains the artistic integrity of the piece, making the complex scaling from Part 1 technically achievable.
 
 ### Resources
 * **Example Implementation and Code:** [p5.js Mouse Functions Reference](https://p5js.org/reference/p5/mousePressed/)
