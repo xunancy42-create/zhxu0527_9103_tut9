@@ -3,7 +3,7 @@
 ## **1. Imaging Technique Inspiration**
 
 
-### *Inspired imaging technique:*
+#### Inspired imaging technique:
 
 ![Image 1](readmeImages/image_1.jpg)
 ![Image 2](readmeImages/image_2.jpg)
@@ -17,7 +17,7 @@ This technique is beneficial because it creates a highly responsive feedback loo
 ## **2. Coding Technique Exploration**
 
 
-### *Selected Tool: p5.js (Mapping Function)*
+#### Selected Tool: p5.js (Mapping Function)
 
 ![Code Screenshot 1](readmeImages/coding_1.jpg)
 ![Code Screenshot 2](readmeImages/coding_2.jpg)
